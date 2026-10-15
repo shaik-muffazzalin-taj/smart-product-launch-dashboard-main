@@ -98,7 +98,7 @@ Docker
 🧠 How to Run Locally
 
 # Clone the repo
-git clone [https://github.com/LevNgx/smart-product-launch-dashboard.git](https://github.com/shaik-muffazzalin-taj/smart-product-launch-dashboard-main)
+git clone [https://github.com/shaik-muffazzalin-taj/smart-product-launch-dashboard-main.git](https://github.com/shaik-muffazzalin-taj/smart-product-launch-dashboard-main)
 cd smart-product-launch-dashboard
 
 # Install dependencies
